@@ -1,0 +1,12 @@
+Package: trendseason
+Type: Package
+Title: Testing for Presence of Trend and Seasonality
+Version: 0.1
+Date: 2016-02-13
+Author: Abhishek K. Umrawal
+Maintainer: Abhishek K. Umrawal <abhishek.umrawal@gmail.com>
+Description: Functions for testing the presence of trend and seasonality in a time series.
+License: AGPL-3
+LazyData: TRUE
+NeedsCompilation: no
+Packaged: 2016-02-12 21:50:53 UTC; sony
